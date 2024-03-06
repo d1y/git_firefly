@@ -9,3 +9,5 @@ support
 - gitattributes
 
 syntax highlighting :)
+
+https://github.com/zed-industries/zed/issues/7048

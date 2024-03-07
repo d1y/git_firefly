@@ -1,0 +1,5 @@
+name = "Git Diff"
+grammar = "git_diff"
+path_suffixes = ["diff"]
+line_comments = ["#"]
+brackets = []

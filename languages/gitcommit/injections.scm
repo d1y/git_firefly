@@ -1,9 +1,9 @@
-;; TODO: impl this
+; I haven't tested it!
 
-; ((diff) @injection.content
-;  (#set! injection.combined)
-;  (#set! injection.language "diff"))
+(diff
+ (raw_text) @content
+ (#set! "language" "git_diff"))
 
-; ((rebase_command) @injection.content
-;  (#set! injection.combined)
-;  (#set! injection.language "git_rebase"))
+(rebase_command
+ (raw_text) @content
+ (#set! "language" "git_rebase"))

@@ -2,11 +2,11 @@
 
 (scissors
  (message) @content
- (#set! "language" "git_diff"))
+ (#set! "language" "diff"))
 
 ; (diff
 ;  (raw_text) @content
-;  (#set! "language" "git_diff"))
+;  (#set! "language" "diff"))
 
 (rebase_command
  (raw_text) @content

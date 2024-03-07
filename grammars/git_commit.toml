@@ -1,2 +1,8 @@
-repository = "https://github.com/gbprod/tree-sitter-gitcommit"
-commit = "247406593c835065828230bdcecd933138691f68"
+# old used gbprod/tree-sitter-gitcommit
+# replace to the-mikedavis/tree-sitter-git-commit
+
+repository = "https://github.com/the-mikedavis/tree-sitter-git-commit"
+commit = "6f193a66e9aa872760823dff020960c6cedc37b3"
+
+# repository = "https://github.com/gbprod/tree-sitter-gitcommit"
+# commit = "247406593c835065828230bdcecd933138691f68"

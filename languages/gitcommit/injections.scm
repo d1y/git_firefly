@@ -1,13 +1,5 @@
-; I haven't tested it!
-
-(scissors
- (message) @content
+((scissors) @content
  (#set! "language" "diff"))
 
-; (diff
-;  (raw_text) @content
-;  (#set! "language" "diff"))
-
-(rebase_command
- (raw_text) @content
+((rebase_command) @content
  (#set! "language" "git_rebase"))

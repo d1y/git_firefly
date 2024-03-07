@@ -5,6 +5,7 @@ support
 - git_commit
 - git_config
 - git_rebase
+- git_diff(.diff)
 - gitignore
 - gitattributes
 

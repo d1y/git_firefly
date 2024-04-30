@@ -1,6 +1,6 @@
 # Git Firefly
 
-support
+Support
 
 - git_commit
 - git_config
@@ -9,6 +9,6 @@ support
 - gitignore
 - gitattributes
 
-syntax highlighting :)
+Syntax highlighting :)
 
 https://github.com/zed-industries/zed/issues/7048

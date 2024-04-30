@@ -1,0 +1,31 @@
+id = "git_firefly"
+name = "Git Firefly"
+version = "0.0.3"
+schema_version = 1
+authors = [ "d1y <chenhonzho@gmail.com>" ]
+description = "Provides Git Syntax Highlighting"
+repository = "https://github.com/d1y/git_firefly"
+
+[grammars.diff]
+repository = "https://github.com/the-mikedavis/tree-sitter-diff"
+commit = "c165725c28e69b36c5799ff0e458713a844f1aaf"
+
+[grammars.git_commit]
+repository = "https://github.com/the-mikedavis/tree-sitter-git-commit"
+commit = "6f193a66e9aa872760823dff020960c6cedc37b3"
+
+[grammars.git_config]
+repository = "https://github.com/the-mikedavis/tree-sitter-git-config"
+commit = "9c2a1b7894e6d9eedfe99805b829b4ecd871375e"
+
+[grammars.git_rebase]
+repository = "https://github.com/the-mikedavis/tree-sitter-git-rebase"
+commit = "d8a4207ebbc47bd78bacdf48f883db58283f9fd8"
+
+[grammars.gitattributes]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-gitattributes"
+commit = "41940e199ba5763abea1d21b4f717014b45f01ea"
+
+[grammars.gitignore]
+repository = "https://github.com/shunsambongi/tree-sitter-gitignore"
+commit = "f4685bf11ac466dd278449bcfe5fd014e94aa504"

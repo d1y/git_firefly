@@ -1,9 +1,0 @@
-{
-  "name": "Git Firefly",
-  "version": "0.0.2",
-  "authors": [
-    "d1y <chenhonzho@gmail.com>"
-  ],
-  "description": "Provides Git Syntax Highlighting",
-  "repository": "https://github.com/d1y/git_firefly"
-}
